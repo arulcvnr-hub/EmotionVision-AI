@@ -1,0 +1,2 @@
+/* Optional external stylesheet for deployments that load static assets. The core app injects the same theme for Streamlit Cloud compatibility. */
+:root { --emotionvision-accent: #35d399; --emotionvision-bg: #0b1120; }

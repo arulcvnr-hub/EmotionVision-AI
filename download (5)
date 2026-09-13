@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/
+models/*.h5
+data/*.db
+*.mp4
+.DS_Store
